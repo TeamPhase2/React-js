@@ -1,0 +1,24 @@
+.menu{
+    text-align: center;
+    font-size: 70;
+}
+
+.container{
+   background-color: darkgreen;
+}
+
+.main{
+    font-style: normal;
+    width: 50%;
+
+}
+.form{
+    font-style: normal;
+    text-align: center;
+
+}
+
+.field{
+
+    font-style: normal;
+}
